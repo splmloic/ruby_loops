@@ -46,12 +46,12 @@ end
 
 def perform
     step = start_build
-    wtf_pyramid (step)
+    full_pyramid (step)
 end
 
 perform
 
-#     #
+#     # 
 #    ###
 #   #####
 #  #######
